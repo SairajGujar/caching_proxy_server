@@ -16,6 +16,7 @@
     "commander": "^12.1.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "ioredis": "^5.4.1",
     "node-cache": "^5.1.2",
     "nodemon": "^3.1.7"
   }
